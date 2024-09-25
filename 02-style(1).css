@@ -48,7 +48,7 @@ nav {
 }   
 
 main {
-    background-color: #3686d1c5;
+    background-color: #ffffffc5;
 }
 
 h1 {
@@ -71,4 +71,17 @@ p {
 
 img {
     height: 500px;
+}
+
+footer{
+    background-color: #38401E;
+}
+
+.foot {
+    color: white;
+}
+
+.drift {
+    color: white;
+    float: right;
 }
