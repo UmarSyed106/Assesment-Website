@@ -36,6 +36,7 @@ a:hover {
 header .logo{
     width: 150px;
     background-color: #38401E;
+    height: 100%
 }
 
 nav {
@@ -67,3 +68,7 @@ p {
     font-style: normal;
     font-size: 24px;
 }   
+
+img {
+    height: 500px;
+}
