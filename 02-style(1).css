@@ -19,7 +19,11 @@ a {
     text-decoration: none;
 }
 
-header .logo{
+a.hover{
+
+}
+
+header.logo{
     width: 150px;
     background-color: #38401E;
 }
