@@ -17,13 +17,23 @@ a {
     font-weight: 700;
     font-style: normal;
     text-decoration: none;
+    background-color: #38401E;
+    font-size: 80px;
+    
 }
 
-a.hover{
-
+a:hover {
+    color: #38401E;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 80px;
+    background-color: white;
 }
 
-header.logo{
+header .logo{
     width: 150px;
     background-color: #38401E;
 }
@@ -33,14 +43,14 @@ nav {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: #38401E;  
+
 }   
 
 main {
     background-color: #3686d1c5;
 }
 
-h1{
+h1 {
     color: #38401E;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
@@ -53,7 +63,7 @@ p {
     color: #38401E;
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 350;
+    font-weight: 400;
     font-style: normal;
     font-size: 24px;
 }   
